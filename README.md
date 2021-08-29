@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Subhajit9
+- 👀 I’m interested in Analysing data and derive meaningfull inference from it.
+- 🌱 I’m currently finished my Post Graduation in Economics with Econometrics as my Special Paper.
+- 💞️ I’m looking to collaborate on different Machine Learning and data driven projects.
+- 📫 You can reachme through my email: pramaniksubho658@gmail.com
